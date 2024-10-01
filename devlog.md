@@ -2,7 +2,7 @@
 
 * Name: Jeiss Varghese
 * [Trello Board](https://trello.com/b/9qJ1jnDG/game-development-template)
-* [Proposal](file://C:\New Paltz\Intro to Gaming\Final Game Proposal.pdf) 
+* [Final Game Proposal.pdf](https://github.com/user-attachments/files/17216130/Final.Game.Proposal.pdf)
 * [Itch.io](https://jeiss3341.itch.io)
 
 ## 2024-10-1 - 1.0hrs: Updated Project Information
