@@ -5,6 +5,10 @@
 * [Final Game Proposal.pdf](https://github.com/user-attachments/files/17216130/Final.Game.Proposal.pdf)
 * [Itch.io](https://jeiss3341.itch.io)
 
+## 2024-10-6 - 1.5hrs: Updated Project Information
+
+* Praticed with playlist "How to Make an RPG in Godot 4"  by DevWorm on youtube
+
 ## 2024-10-1 - 1.0hrs: Updated Project Information
 
 * Updated Trello Board
