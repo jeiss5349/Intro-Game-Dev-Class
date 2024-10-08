@@ -4,6 +4,7 @@
 * [Trello Board](https://trello.com/b/9qJ1jnDG/game-development-template)
 * [Final Game Proposal.pdf](https://github.com/user-attachments/files/17216130/Final.Game.Proposal.pdf)
 * [Itch.io](https://jeiss3341.itch.io)
+* [Itch.io2](https://jeiss3341.itch.io/pratice-project))
 
 ## 2024-10-6 - 1.5hrs: Updated Project Information
 
